@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ecart.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PRODUCT LIST</h1>
+            <div>
+                <form class="search-form">
+                    <input class="search-input" type="text" placeholder="Search">
+                    <button class="btn"><ion-icon name="search"></ion-icon></button>
+                </form>
+            </div>
+            <div class="head-icons">
+                <ion-icon class="cart-icon" name="cart"></ion-icon>
+                <ion-icon name="person"></ion-icon>
+            </div>
+        </header>
+        <div class="cart-container">
+            <h3>Shopping cart</h3>
+            <div class="cart-items"><div class="cart-empty">Your Cart is empty!</div>
+            </div>
+            <div class="cart-btns">
+                <button class ="cart-close" onclick="closeCart()">Close</button>
+                <button class="cart-checkout">Checkout</button>
+
+            </div>
+
+        </div>
+        <div class="main">
+           
+        </div>
+        
+    </div>
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+    <script src="ecart.js"></script>
+</body>
+</html>

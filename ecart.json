@@ -1,0 +1,157 @@
+{
+    "chairs":[
+        {
+            "id":1,
+            "name":"Madata Kurchi",
+            "image":"https://rukminim2.flixcart.com/image/450/450/xif0q/outdoor-chair/l/z/u/50-1-wrought-iron-50-3-5-ce-boxtype-grey-cauvery-enterprises-original-imaghsb7ygheaedd.jpeg?q=90&crop=false",
+            "price":499
+        },
+        {
+            "id":2,
+            "name":"Deck Chair",
+            "image":"https://m.media-amazon.com/images/I/61wjjRuXdLL.jpg",
+            "price":599
+        },
+        {
+            "id":3,
+            "name":"Ladder Back Chair",
+            "image":"https://s3.amazonaws.com/nadeau-website/wp-content/uploads/sites/19/2015/08/PC025_Dk-Nat.jpg",
+            "price":699
+        },
+        {
+            "id":4,
+            "name":"Dining Chair",
+            "image":"https://www.at-home.co.in/cdn/shop/products/OlennachairLS.jpg?v=1668424724",
+            "price":799
+        },
+        {
+            "id":5,
+            "name":"Modern Bentwood Chair",
+            "image":"https://image.made-in-china.com/202f0j00VGSfgmAYZFoE/Modern-Fast-Food-Restaurant-Furniture-Metal-Leg-Bentwood-Chair.jpg",
+            "price":899
+        },
+        {
+            "id":6,
+            "name":"Baby Chair",
+            "image":"https://m.media-amazon.com/images/I/51PrLvQv65L._AC_UF894,1000_QL80_.jpg",
+            "price":999
+        },
+        {
+            "id":7,
+            "name":"Garden Chair",
+            "image":"https://4.imimg.com/data4/HX/HW/ANDROID-2081592/product.jpeg",
+            "price":1099
+        },
+        {
+            "id":8,
+            "name":"study Chair",
+            "image":"https://images.meesho.com/images/products/81442394/cfcqy_512.webp",
+            "price":1199
+        },
+        {
+            "id":9,
+            "name":"Arm chair",
+            "image":"https://magnoliahome.co.in/wp-content/uploads/2021/08/Tufted-Soho-Chair-1.1-1.jpg",
+            "price":1299    
+        },
+        {
+            "id":10,
+            "name":"Accent chair",
+            "image":"https://www.ulcdn.net/images/products/808701/product/FNSTCH11TK30003_LP.png?1683921990",
+            "price":1399
+        },
+        {
+            "id":11,
+            "name":"Club chair",
+            "image":"https://5.imimg.com/data5/FJ/ZI/QY/SELLER-12710243/club-chairs.jpeg",
+            "price":1499
+        },
+        {
+            "id":12,
+            "name":"z chair",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfzeHWJ-9hBBHqP7pTsbzqEKpIGXSL0uPqg&usqp=CAU",
+            "price":1599
+        },
+        {
+            "id":13,
+            "name":"Egg chair",
+            "image":"https://image.architonic.com/sto3-1/20751620/the-complex-evolution-of-the-iconic-egg-chair-10-arcit18.jpg",
+            "price":1699
+        },
+        {
+            "id":14,
+            "name":"Ghost chair",
+            "image":"https://www.bossescabin.com/wp-content/uploads/magictoolbox_cache/6e197da80b81afdb5261e6a5c3debab9/5/6/5660/original/245272743/IMG_0187-0.jpg",
+            "price":1799
+        },
+        {
+            "id":15,
+            "name":"Zebra chair",
+            "image":"https://pacificimportsinc.com/cdn/shop/products/5955-ZEB.jpg?v=1492104860",
+            "price":1899
+        },
+        {
+            "id":16,
+            "name":"Zori chair",
+            "image":"https://pickedvintage.files.wordpress.com/2013/10/mcm-orange-round-chair-2.jpg",
+            "price":1999
+        },
+        {
+            "id":17,
+            "name":"Cane chair",
+            "image":"https://thejodilife.com/cdn/shop/products/IMG_9351_2.jpg?v=1632988830",
+            "price":2099
+        },
+        {
+            "id":18,
+            "name":"Deco chair",
+            "image":"https://www.orangetree.in/cdn/shop/products/gallery-6_art_deco_study_table_with_chair_online.jpg?v=1692427209",
+            "price":2199
+        },
+        {
+        
+            "id":19,
+             "name":"Adirondack chair",
+             "image":"https://i5.walmartimages.com/seo/Wooden-Adirondack-Chair-Folding-Fire-Pit-Chair-Resin-Deck-Chair-for-Adults-Seniors-Resting-in-Patio-Yard-Nature_58e030fc-4ac5-447c-aeb8-dc9c7e329c65.50f08ea213dd3c2e198d01646c1dd1a7.jpeg",
+             "price":2299
+        },
+        {
+            "id":20,
+            "name":"Directors chair",
+            "image":"https://as2.ftcdn.net/v2/jpg/01/03/42/85/1000_F_103428534_vhYQCpPpGuto9vKQzehHQXUVyGTLSM4D.jpg",
+            "price":2399
+        },
+        {
+            "id":21,
+            "name":"Barcelona chair",
+            "image":"https://www.zazous.co.uk/wp-content/uploads/2021/10/White-Barcelona-Chair-and-Footstool.jpg",
+            "price":2499
+        },
+        {
+            "id":22,
+            "name":"Iron modern chair",
+            "image":"https://5.imimg.com/data5/KO/EL/VW/SELLER-50964901/modern-iron-chair-500x500.png",
+            "price":2599
+        },
+        {
+            "id":23,
+            "name":"Slipper chair",
+            "image":"https://images-cdn.ubuy.co.in/636f9cab1a172e2626008b52-14-karat-home-jane-slipper-chair-fushia.jpg",
+            "price":2699
+        },
+        {
+            "id":24,
+            "name":"Papasan chair",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9f2Qiiwz3V8FrX_IA7AQM5ei5mg5lvvOgw&usqp=CAU",
+            "price":2799
+        },
+        {
+            "id":25,
+            "name":"Nordic wallnut wooden chair",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMnd8jer1aZ1OBBsPJX9DMyOATJyTam6a0g&usqp=CAU",
+            "price":2899
+        }
+       
+
+    ]
+}
